@@ -1,10 +1,14 @@
-# orangehrm-test-group-I
+## orangehrm-test-group-I
 Test script and data for testing
 
-Requirement: python with selenium and webdriver_manager
-Prerequiste data: an Admin acconut with:
+# Requirement
+ python with selenium and webdriver_manager
+# Prerequiste data: an Admin acconut with:
 - username: admin1
 - password: Test111!
 - employee id: 0002
+(No other account is available at that time)
 
-Test subject: PIM - Create Employee, My info - Personal Infomation
+# Test subject
+- PIM - Create Employee
+- My info - Personal Infomation
