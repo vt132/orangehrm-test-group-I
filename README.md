@@ -7,7 +7,8 @@ Test script and data for testing
 - username: admin1
 - password: Test111!
 - employee id: 0002
-(No other account is available at that time)
+
+(No other account is available at the time of testing)
 
 # Test subject
 - PIM - Create Employee
