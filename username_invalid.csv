@@ -1,0 +1,5 @@
+username,message
+vali,Should be at least 5 characters
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Should not exceed 40 characters
+admin,Username already exists
+ ,Required
